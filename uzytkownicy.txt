@@ -1,0 +1,6 @@
+login: pracownik
+hasło: ZAQ!2wsx
+
+
+login: admin
+hasło: ZAQ!2wsx
